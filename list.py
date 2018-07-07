@@ -1,5 +1,4 @@
-n=int(raw_input())
-k=int(raw_input())
+n,k = int(raw_input()),int(raw_input())
 b=[]
 d=0
 for i in range(n):
